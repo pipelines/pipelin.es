@@ -2,8 +2,9 @@ Pipelin.es is a NGS data analysis pipeline evaluation tool
 ==========================================================
 
 Some of the concepts were nutted out at AMIGOS 2015. The idea was pitched by 
-Jason Kwong and the following representatives from pipeline development teams 
-joined him -
+Jason Kwong.
+
+The following representatives from pipeline development teams joined Jason -
     Melinda Ashcroft (Banzai_)
     Mark Davies (Sanger)
     David Edwards (RedDog_)
