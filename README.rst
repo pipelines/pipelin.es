@@ -15,3 +15,10 @@ The following representatives from pipeline development teams joined Jason -
 .. _RedDog: https://github.com/katholt/RedDog
 .. _nullarbor: https://github.com/tseemann/nullarbor 
 .. _spandx: http://sourceforge.net/projects/spandx/
+
+Organisation
+------------
+
+brew - a homebrew/linuxbrew formula for installation of your pipeline 
+docker - a docker file for installation. Information on data comsumption endpoints to come.
+
