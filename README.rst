@@ -19,6 +19,5 @@ The following representatives from pipeline development teams joined Jason -
 Organisation
 ------------
 
-brew - a homebrew/linuxbrew formula for installation of your pipelin 
-
-docker - a docker file for installation. Information on data comsumption endpoints to come.
+* brew - a homebrew/linuxbrew formula for installation of your pipeline
+* docker - a docker file for installation. Information on data comsumption endpoints to come.
